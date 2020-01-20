@@ -1,4 +1,4 @@
-# Libraries SiLabs
+# SiLabs Libraries
 
 # Naming rules (Directories/Files)
 To do:
