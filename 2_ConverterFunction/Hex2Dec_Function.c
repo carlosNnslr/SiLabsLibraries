@@ -1,7 +1,7 @@
 /*---------------------------------------------------------------------------*-
    Hex2Dec ()
   -----------------------------------------------------------------------------
-   Descriptif: Convert hex value to decimal
+   Descriptive: Convert hex value to decimal
    IN        : *array, array to convert                               (0..255)
                sizeArray, array size                                  (0..255)
    OUT       : valDec, value converted to decimal                     (0..2^32)
