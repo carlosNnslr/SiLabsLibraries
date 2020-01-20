@@ -11,3 +11,5 @@
 
       Exemples: ¢™$®
 * Signes de ponctuation, parenthèses, guillemets, crochets et opérateurs
+
+salut
