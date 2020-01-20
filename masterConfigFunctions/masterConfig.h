@@ -1,0 +1,13 @@
+#ifndef _MASTERCONFIG_H_INCLUDED_
+#define _MASTERCONFIG_H_INCLUDED_
+
+//Uc names
+#define MC_C8051F38X 0
+#define MC_C8051F02X 1
+#define MC_C8051F2XX 2
+#define MC_C8051F7XX 3
+
+//Uc target
+#define MC_TARGET MC_C8051F38X
+
+#endif //_MASTERCONFIG_H_INCLUDED_
