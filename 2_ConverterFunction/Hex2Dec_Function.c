@@ -2,9 +2,9 @@
    Hex2Dec ()
   -----------------------------------------------------------------------------
    Descriptif: Convert hex value to decimal
-   Entrée    : *array, array to convert                               (0..255)
+   IN        : *array, array to convert                               (0..255)
                sizeArray, array size                                  (0..255)
-   Sortie    : valDec, value converted to decimal                     (0..2^32)
+   OUT       : valDec, value converted to decimal                     (0..2^32)
 -*---------------------------------------------------------------------------*/
 unsigned long Hex2Dec (unsigned char *array,unsigned char sizeArray)
 {
