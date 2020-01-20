@@ -16,8 +16,8 @@ To avoid:
 * Ponctuation, parenthesis, quotation marks , square bracket or operators
 
 # Usage
-
-You will need those files:
+If you use a masterConfig depending Function you will need those files:
+(masterConfig depending Functions are located in the "masterConfigFunctions" folder)
 
 * masterConfig.c -> needed to configure all other functions with the correct hardware
 * masterConfig.h -> you always need the coresponding ".h"
