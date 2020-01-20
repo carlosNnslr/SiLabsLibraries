@@ -1,1 +1,1 @@
-# LibrariesSiLabs
+# Libraries SiLabs
