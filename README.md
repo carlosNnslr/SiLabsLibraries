@@ -19,10 +19,11 @@ To avoid:
 If you use a masterConfig depending Function you will need those files:
 (masterConfig depending Functions are located in the "masterConfigFunctions" folder)
 
-* masterConfig.c -> needed to configure all other functions with the correct hardware
-* masterConfig.h -> you always need the coresponding ".h"
+* masterConfig.h -> needed to configure all other functions with the correct hardware
 * functionX.c    -> any function in this Git
 * functionX.h    -> you always need the coresponding ".h"
 
       Then open the masterConfig.c and choose your microcontroller and any other important configs needed.
       Just include the masterConfig ".c" and ".h" and any function ".c" and ".h" you need and your ready to go
+
+If you are using a non-depending function just pick up the ".c" and ".h" and include them
