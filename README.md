@@ -24,6 +24,6 @@ If you use a masterConfig depending Function you will need those files:
 * functionX.h    -> you always need the coresponding ".h"
 
       Then open the masterConfig.c and choose your microcontroller and any other important configs needed.
-      Just include the masterConfig ".c" and ".h" and any function ".c" and ".h" you need and your ready to go
+      Just include the masterConfig and any function you need, then you're ready to go.
 
 If you are using a non-depending function just pick up the ".c" and ".h" and include them
